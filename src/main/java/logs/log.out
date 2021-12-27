@@ -1,0 +1,32 @@
+2021-12-27 17:12:96 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 17:12:175 INFO  Page1HomePage :29 - entering first name: Jolly
+2021-12-27 17:12:257 INFO  Page1HomePage :34 - entering last name: James
+2021-12-27 17:12:347 INFO  Page1HomePage :39 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> css selector: #form-pagebreak-next_5]
+2021-12-27 17:12:353 INFO  Page2DropFile :29 - uploading the file: D:/downloads/image.png
+2021-12-27 17:12:498 INFO  Page2DropFile :25 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> css selector: #form-pagebreak-next_4]
+2021-12-27 17:12:513 INFO  Page3Signature :32 - Signature in the box: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> xpath: //*[@id="sig_pad_7"]/canvas]
+2021-12-27 17:12:544 INFO  Page3Signature :27 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> css selector: #form-pagebreak-next_8]
+2021-12-27 17:12:649 INFO  Page4Date :27 - entering the date: 12-21-2021
+2021-12-27 17:12:770 INFO  Page4Date :32 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> id: form-pagebreak-next_10]
+2021-12-27 17:12:865 INFO  Page5SecurityQuestion :25 - selecting the question: Favourite colour
+2021-12-27 17:12:973 INFO  Page5SecurityQuestion :30 - entering the answer: Blue
+2021-12-27 17:12:60 INFO  Page5SecurityQuestion :35 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> id: form-pagebreak-next_13]
+2021-12-27 17:12:128 INFO  Page6Next :21 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> css selector: #form-pagebreak-next_14]
+2021-12-27 17:12:196 INFO  Page7Submit :21 - clicking on submit button: [[ChromeDriver: chrome on WINDOWS (cfb78587d8a0d00cafe88620abe145fd)] -> css selector: #input_2]
+2021-12-27 17:12:774 INFO  Page8Verify :24 - verifying the message: Thank You!
+2021-12-27 17:12:955 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 17:12:391 INFO  Page1HomePage :29 - entering first name: Jolly
+2021-12-27 17:12:464 INFO  Page1HomePage :34 - entering last name: James
+2021-12-27 17:12:544 INFO  Page1HomePage :39 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> css selector: #form-pagebreak-next_5]
+2021-12-27 17:12:552 INFO  Page2DropFile :29 - uploading the file: D:/downloads/image.png
+2021-12-27 17:12:705 INFO  Page2DropFile :25 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> css selector: #form-pagebreak-next_4]
+2021-12-27 17:12:729 INFO  Page3Signature :32 - Signature in the box: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> xpath: //*[@id="sig_pad_7"]/canvas]
+2021-12-27 17:12:734 INFO  Page3Signature :27 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> css selector: #form-pagebreak-next_8]
+2021-12-27 17:12:840 INFO  Page4Date :27 - entering the date: 12-21-2021
+2021-12-27 17:12:973 INFO  Page4Date :32 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> id: form-pagebreak-next_10]
+2021-12-27 17:12:70 INFO  Page5SecurityQuestion :25 - selecting the question: Favourite colour
+2021-12-27 17:12:181 INFO  Page5SecurityQuestion :30 - entering the answer: Blue
+2021-12-27 17:12:269 INFO  Page5SecurityQuestion :35 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> id: form-pagebreak-next_13]
+2021-12-27 17:12:333 INFO  Page6Next :21 - clicking on next button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> css selector: #form-pagebreak-next_14]
+2021-12-27 17:12:402 INFO  Page7Submit :21 - clicking on submit button: [[ChromeDriver: chrome on WINDOWS (ba3a6d58bd49eb4203cc7e5ff22d9e8d)] -> css selector: #input_2]
+2021-12-27 17:12:977 INFO  Page8Verify :24 - verifying the message: Thank You!
